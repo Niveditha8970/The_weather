@@ -1,0 +1,11 @@
+:root {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    color: rgba(var(--color-primary-rgb), 1);
+    background: url("/static/imgs/bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
